@@ -1,3 +1,4 @@
+// puppeteer module is required to downloaded first
 let puppeteer = require("puppeteer");
 let fs = require("fs");
 const { request } = require("http");
