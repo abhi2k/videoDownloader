@@ -1,4 +1,5 @@
 // puppeteer module is required to downloaded first
+// by using command in terminal - npm install puppeteer
 let puppeteer = require("puppeteer");
 let fs = require("fs");
 const { request } = require("http");
